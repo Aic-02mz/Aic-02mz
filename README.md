@@ -9,4 +9,4 @@ I’m looking to collaborate on Open Source Projects
 
 - 📫 How to reach me: Twitter -@teighgamer  
 
-- ⚡ What i know: Kotlin, Java, HTML, Python, SQL
+- ⚡ What i know: Kotlin, Java, HTML,CSS,Javascript, Python, SQL
