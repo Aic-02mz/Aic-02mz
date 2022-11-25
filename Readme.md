@@ -10,3 +10,5 @@ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: Twitter -@teighgamer  
 
 - ⚡ What i know: Kotlin, Java, HTML,CSS,Javascript, Python, SQL
+
+To learn more about me https://www.linkedin.com/in/teigh-lawrence-green-a48a27159/
